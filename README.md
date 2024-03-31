@@ -3,6 +3,7 @@
 <p align="center">
 <img src = "assets/image1.png" width="700" height="400">
 </p>
+
 # 1. 팀 소개
 
 조장 : 정연지
