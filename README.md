@@ -79,6 +79,7 @@
 <p align="center">
 <img src = "assets/image12.png" width="300" height="400">
 </p>
+
 - 2030 매출금액과 높은 상관성을 보이는 요인
 <p align="center">
 <img src = "assets/image13.png" width="200" height="400">
